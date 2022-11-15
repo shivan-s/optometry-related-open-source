@@ -7,4 +7,6 @@ Do you have a project you want listed in here? [Please submit pull request](http
 ## Projects
 
 ### Web Applications
-- __[OptomRx](https://optomrx.net/)__ - Giving Australian optometrists the tools to professionally create and manage therapeutic prescriptions online, including PBS and authority scripts. [[Source](https://github.com/daniel-moderiano/optom-rx)]
+
+- **[OptomRx](https://optomrx.net/)** - Giving Australian optometrists the tools to professionally create and manage therapeutic prescriptions online, including PBS and authority scripts. [[Source](https://github.com/daniel-moderiano/optom-rx)]
+- **[WolfChart](https://wolfchart.org/)** - The professional eye chart for your browser. [[Source](https://github.com/ballantynedewolf/WolfChart)]
